@@ -1,3 +1,5 @@
+**🌐 [한국어](README.md) | [English](README.en.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)**
+
 # 픽팍(PikPak) 완벽 사용법
 
 > 기준일: 2026-11-25
